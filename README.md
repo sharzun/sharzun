@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharzun
-- 🎓 I'm a 3rd year Electrical and Electronics Engineering ttudent specializing in Computer Engineering
+- 🎓 I'm a 3rd year Electrical and Electronics Engineering student specializing in Computer Engineering
 - 🔎 I’m interested in Cybersecurity and Ethical Hacking
 - 🌱 I’m im improving my skills and knowledge in Cybersecurity to get job in that field when I graduate.
 - 📫 You may reach me on Telegram @sharzun, or through my email 'sharzun23@gmail.com'
