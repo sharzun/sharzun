@@ -2,7 +2,6 @@
 - 🎓 I'm a Third-year Electrical and Electronics Engineering student specializing in Computer Engineering
 - 🔎 I’m interested in Cybersecurity and Ethical Hacking
 - 🌱 I’m currenlty improving my skills and knowledge in Cybersecurity to get a job in that field when I graduate.
-- 📫 You may reach me on Telegram @sharzun.
 
 <!---
 sharzun/sharzun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
