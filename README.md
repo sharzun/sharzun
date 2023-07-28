@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sharzun
-- 🎓 I'm a Final year Electronics (Computer) Engineering student Universiti Teknologi Malaysia (UTM).
-- 🔎 I’m interested in Penetration Testing in Cybersec, especially in Network and Web pentesting.
-- 🌱 I’m currenlty developing and improving my skills and knowledge in that field while studying for my undergraduate degree.
+- 👋 The name's Sharzun.
+- 🎓 A soon-to-be-graduate student of Electronics (Computer) Engineering from Universiti Teknologi Malaysia (UTM).
+- 🔎 Passionate about Cybersecurity namely Penetration Testing.
+- 🌱 Currently preparing for the PJPT exam held by TCM Security.
 
 <!---
 sharzun/sharzun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
