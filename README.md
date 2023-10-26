@@ -1,4 +1,4 @@
-### - 👋 Hello there, Sharzun's here.
+#### - 👋 Hello there, Sharzun's here.
 - 🎓 A fresh graduate from Universiti Teknologi Malaysia with a Bachelor's Degree in Electronics Engineering, specializing in Computer Engineering.
 - 🔎 Passionate about IT, Networking & Cybersecurity.
 - 🌱 Currently learning the contents of the CompTIA Trifecta (A+ ongoing) to learn the concepts of basic IT, Net & CyberSec.
