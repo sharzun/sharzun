@@ -1,5 +1,8 @@
 ***<h1>Hey there, <a href="https://www.linkedin.com/in/sharzun/">Sharzun</a>'s Here👋🏼,          
 Welcome to my showcase!***
+- 🎓 Fresh grad with a Bachelor's Degree in Electronics Engineering, specializing in Computer Engineering.
+- ✨ Studying CompTIA A+(now), Net+(next), and Sec+ contents and concepts to obtain foundational knowledge and to be familiar with the field.
+- 🎯 Searching to Secure A Job in IT (HELPDESK / SOC ANALYST L1/ NETWORK ENGINEER / JR. PENTESTER)
 
 
 <h2> Courses & Certifications </h2>
