@@ -1,8 +1,9 @@
 ***<h1>Hey there, <a href="https://www.linkedin.com/in/sharzun/">Sharzun</a>'s Here👋🏼,          
-Welcome to my showcase!***
-- 🎓 Fresh grad with a Bachelor's Degree in Electronics Engineering, specializing in Computer Engineering.
-- ✨ Studying CompTIA A+(now), Net+(next), and Sec+ contents and concepts to obtain foundational knowledge and to be familiar with the field.
-- 🎯 Searching to Secure A Job in IT (HELPDESK / SOC ANALYST L1/ NETWORK ENGINEER / JR. PENTESTER)
+Welcome to my Portfolio!***
+- 🎓 Fresh graduate with a Bachelor's Degree in Electronics Engineering, specializing in Computer Engineering, from Univerisiti Teknologi Malaysia.
+- 🎯 Looking  for an entry-level job in the Infosec field (Helpdesk, L1 SOC Analyst, Network/Cybersecurity Analyst/Engineer, Jr. Pentester).
+- 💻 Possess good technical skills in Python programming, virtualization (VMWare & VirtualBox), Linux (Kali, Ubuntu, Mint), Packet Analysis (Wireshark), Port Scanning (NMap), etc.
+- ✨ Taking several online courses to enhance my understanding skills in this field such as CompTIA courses, CCNA courses, EC-Council courses, & Practical Ethical Hacking from renowned platforms like Udemy, David Bombal, EC-Council & TCM Security.
 
 
 <h2> Courses & Certifications </h2>
