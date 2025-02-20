@@ -1,10 +1,14 @@
 ***<h1>Hey there, <a href="https://www.linkedin.com/in/sharzun/">Sharzun</a>'s Here👋🏼,          
 Welcome to my Portfolio!***
-- 🎓 Fresh graduate with a Bachelor's Degree in Electronics Engineering, specializing in Computer Engineering, from Univerisiti Teknologi Malaysia.
-- 🎯 Looking  for an entry-level job in the Infosec field (Helpdesk, L1 SOC Analyst, Network/Cybersecurity Analyst/Engineer, Jr. Pentester).
-- 💻 Possess good technical skills in Python programming, virtualization (VMWare & VirtualBox), Linux (Kali, Ubuntu, Mint), Packet Analysis (Wireshark), Port Scanning (NMap), etc.
-- ✨ Taking several online courses to enhance my understanding skills in this field such as CompTIA courses, CCNA courses, EC-Council courses, & Practical Ethical Hacking from renowned platforms like Udemy, David Bombal, EC-Council & TCM Security.
-
+- 💻 Aspiring Ethical Hacker | Web & Network Security Enthusiast.
+- 🎓 Bachelor's in Electronics Engineering (Computer Engineering & Networking) – Universiti Teknologi Malaysia.
+- ⚔️ Preparing for PNPT by TCM Security Academy.
+- 🔍 Passionate about penetration testing, vulnerability assessments, and security automation.
+- 🚀 Skills & Tools:
+      Programming: Python, Bash, PowerShell;
+      Cybersecurity: Linux (Kali, Ubuntu), Wireshark, Nmap, Burp Suite, Metasploit;
+      Networking: Virtualization, Packet Analysis, Active Directory, Firewall Configurations;
+      Labs & Learning: TryHackMe | Hack The Box | Practical Ethical Hacking;
 
 <h2> Courses & Certifications </h2>
 
