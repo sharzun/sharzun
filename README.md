@@ -12,7 +12,7 @@ Welcome to my Portfolio!***
 
 <h2> Courses & Certifications </h2>
 
-- <a href="https://drive.google.com/drive/folders/1Jwf3IVPyx8tAhVRUoWlmgOR_FOUwLSLC?usp=drive_link">Google Drive</a>
+- <a href="https://drive.google.com/drive/folders/1qCp56CJX6phF1md3gaa5tqlaHWqMSbXq?usp=drive_link">Google Drive</a>
   
 
 <h2> 📲 Connect with me</h2>
