@@ -1,14 +1,14 @@
 ***<h1>Hey there, <a href="https://www.linkedin.com/in/sharzun/">Sharzun</a>'s Here👋🏼,          
 Welcome to my Portfolio!***
-- 💻 Aspiring Ethical Hacker | Web & Network Security Enthusiast.
+- 💻 Aspiring Ethical Hacker | Web & Network Security | Ex-Network Engineer.
 - 🎓 Bachelor's in Electronics Engineering (Computer Engineering & Networking) – Universiti Teknologi Malaysia.
-- ⚔️ Preparing for PNPT by TCM Security Academy.
-- 🔍 Passionate about penetration testing, vulnerability assessments, and security automation.
+- ⚔️ Preparing for PNPT | TCM Security Academy, Practicing on TryHackMe.
+- 🔍 Passionate about penetration testing, vulnerability assessments, ethical hacking, and security automation.
 - 🚀 Skills & Tools:
       Programming: Python, Bash, PowerShell;
-      Cybersecurity: Linux (Kali, Ubuntu), Wireshark, Nmap, Burp Suite, Metasploit;
+      Labs & Lessons: TryHackMe | Hack The Box | TCM Security;
       Networking: Virtualization, Packet Analysis, Active Directory, Firewall Configurations;
-      Labs & Learning: TryHackMe | Hack The Box | Practical Ethical Hacking;
+      Cybersecurity: Linux (Kali, Ubuntu), OSINT, Recon, Enumeration, Exploitation, Researching, Wireshark, Nmap, Burp Suite, Metasploit;
 
 <h2> Courses & Certifications </h2>
 
@@ -20,3 +20,4 @@ Welcome to my Portfolio!***
 [<img align="left" alt="sharzun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/sharzun/
+[other plats]: https://linktr.ee/sharzun
