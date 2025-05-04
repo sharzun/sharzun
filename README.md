@@ -20,4 +20,7 @@
 [<img align="left" alt="sharzun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/sharzun/
-[other plats]: https://linktr.ee/sharzun
+
+[<img align="left" alt="sharzun | LinkTree" width="22px" src="https://images.seeklogo.com/logo-png/44/1/linktree-logo-png_seeklogo-443811.png" />][linktree]
+
+[linktree]: https://linktr.ee/sharzun
