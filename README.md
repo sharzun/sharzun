@@ -10,7 +10,7 @@
       Networking: Virtualization, Packet Analysis, Active Directory, Firewall Configurations;\
       Cybersecurity: Linux (Kali, Ubuntu), OSINT, Recon, Enumeration, Exploitation, Researching, Wireshark, Nmap, Burp Suite, Metasploit;
 
-<h2> Courses & Certifications </h2>
+<h2> Achievements & Progress 🏆 </h2>
 
 - <a href="https://drive.google.com/drive/folders/1qCp56CJX6phF1md3gaa5tqlaHWqMSbXq?usp=drive_link">Google Drive</a>
   
