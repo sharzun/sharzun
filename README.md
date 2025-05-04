@@ -15,12 +15,12 @@
 - <a href="https://drive.google.com/drive/folders/1qCp56CJX6phF1md3gaa5tqlaHWqMSbXq?usp=drive_link">Google Drive</a>
   
 
-<h2> 📲 Connect with me</h2>
+<h2> 📲 Connect with me! </h2>
 
 [<img align="left" alt="sharzun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/sharzun/
 
-[<img align="left" alt="sharzun | LinkTree" width="22px" src="https://images.seeklogo.com/logo-png/44/1/linktree-logo-png_seeklogo-443811.png" />][linktree]
+[<img align="left" alt="sharzun | LinkTree" width="22px" src="https://drive.google.com/file/d/1VIFamyWvNNM11HAMXrXuLdRCRhsrMxLC/view?usp=drive_link" />][linktree]
 
 [linktree]: https://linktr.ee/sharzun
