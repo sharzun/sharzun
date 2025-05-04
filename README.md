@@ -5,9 +5,9 @@
 - ⚔️ Preparing for PNPT | TCM Security Academy, Practicing on TryHackMe.
 - 🔍 Passionate about penetration testing, vulnerability assessments, ethical hacking, and security automation.
 - 🚀 Skills & Tools:
-      Programming: Python, Bash, PowerShell;
-      Labs & Lessons: TryHackMe | Hack The Box | TCM Security;
-      Networking: Virtualization, Packet Analysis, Active Directory, Firewall Configurations;
+      Programming: Python, Bash, PowerShell;\
+      Labs & Lessons: TryHackMe | Hack The Box | TCM Security;\
+      Networking: Virtualization, Packet Analysis, Active Directory, Firewall Configurations;\
       Cybersecurity: Linux (Kali, Ubuntu), OSINT, Recon, Enumeration, Exploitation, Researching, Wireshark, Nmap, Burp Suite, Metasploit;
 
 <h2> Courses & Certifications </h2>
